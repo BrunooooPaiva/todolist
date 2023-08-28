@@ -1,0 +1,26 @@
+.banner {
+    display: flex;
+    justify-content: center;
+    margin-top: 64px
+    
+}
+
+.banner img {
+    background-color: #fff;
+    border-radius: 65px;
+    padding: 5px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;    
+    color: #fff;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+h2:hover {
+    color: #2896ff;
+}
